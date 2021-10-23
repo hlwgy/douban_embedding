@@ -1,4 +1,4 @@
-# douban_embedding
+# 掘金博客 https://juejin.cn/post/7022202104454316046
 豆瓣中文影评差评分析
 
 ### 1. NLP
